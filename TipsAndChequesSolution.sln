@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipsAndChequesLibrary", "TipsAndChequesLibrary\TipsAndChequesLibrary.csproj", "{821EDCFC-4464-4F9F-BA94-C725A4C69BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipsAndChequesaTests", "TipsAndChequesaTests\TipsAndChequesaTests.csproj", "{3D986FAC-EC34-4BBE-B9CA-A736D316FAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821EDCFC-4464-4F9F-BA94-C725A4C69BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821EDCFC-4464-4F9F-BA94-C725A4C69BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821EDCFC-4464-4F9F-BA94-C725A4C69BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821EDCFC-4464-4F9F-BA94-C725A4C69BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D986FAC-EC34-4BBE-B9CA-A736D316FAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D986FAC-EC34-4BBE-B9CA-A736D316FAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D986FAC-EC34-4BBE-B9CA-A736D316FAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D986FAC-EC34-4BBE-B9CA-A736D316FAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

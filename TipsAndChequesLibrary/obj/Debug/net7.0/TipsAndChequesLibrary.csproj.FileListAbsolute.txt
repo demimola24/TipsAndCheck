@@ -1,0 +1,12 @@
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/bin/Debug/net7.0/TipsAndChequesLibrary.deps.json
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/bin/Debug/net7.0/TipsAndChequesLibrary.dll
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/bin/Debug/net7.0/TipsAndChequesLibrary.pdb
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.csproj.AssemblyReference.cache
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.AssemblyInfoInputs.cache
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.AssemblyInfo.cs
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.dll
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/refint/TipsAndChequesLibrary.dll
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/TipsAndChequesLibrary.pdb
+/Users/admin/Documents/School/Web/Testing/TipsAndChequesLibrary/obj/Debug/net7.0/ref/TipsAndChequesLibrary.dll
